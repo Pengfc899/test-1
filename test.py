@@ -4,7 +4,7 @@
 使用print()函数输出带占位符的字符串
 
 Version: 0.1
-Author: 骆昊
+Author: 骆昊啊飒飒的飒飒打撒打撒
 """
 a = int(input('a = '))
 b = int(input('b = '))
